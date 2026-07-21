@@ -7,7 +7,7 @@ Sou um desenvolvedor de software front-end com **mais de 7 anos de experiência*
 ## 🚀 Sobre mim
 
 - 💼 Atualmente, atuo como **Desenvolvedor Front-end**, construindo e evoluindo aplicações web.
-- 🎯 Foco em **JavaScript, TypeScript, Angular e React**.
+- 🎯 Foco em **JavaScript, TypeScript, Angular, React e Vue**.
 - 🌱 Sempre aprendendo e explorando novas tecnologias para entregar soluções inovadoras.
 - 📍 Baseado no Brasil.
 
