@@ -3,7 +3,7 @@
 Sou um desenvolvedor de software **front-end** com mais de 7 anos de experiência na criação de interfaces web rápidas, responsivas e centradas no usuário.  
 Minha paixão é transformar designs em código limpo e eficiente, sempre buscando a melhor **performance** e **acessibilidade**.
 
-Atualmente trabalho na **KBZA Marketing de Resultado®**, em São Paulo.
+
 
 ---
 
