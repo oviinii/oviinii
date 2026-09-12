@@ -1,23 +1,25 @@
 # 👋 Olá, eu sou o Vinicius Oliveira
 
-Sou um desenvolvedor de software front-end com **mais de 7 anos de experiência** na criação de interfaces web rápidas, responsivas e centradas no usuário. Minha paixão é transformar designs em código limpo e eficiente, sempre buscando a melhor performance e acessibilidade.
+Sou um desenvolvedor de software **front-end** com mais de 7 anos de experiência na criação de interfaces web rápidas, responsivas e centradas no usuário.  
+Minha paixão é transformar designs em código limpo e eficiente, sempre buscando a melhor **performance** e **acessibilidade**.
+
+Atualmente trabalho na **KBZA Marketing de Resultado®**, em São Paulo.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente atuo como **Desenvolvedor Front-end**, construindo e evoluindo aplicações web.
-- 🎯 Foco em **JavaScript, TypeScript, Angular, React e Vue**.
-- 🌱 Sempre aprendendo e explorando novas tecnologias para entregar soluções inovadoras.
-- 📍 Baseado no Brasil.
+- 💼 **Desenvolvedor Front-end** com experiência também como Tech Lead
+- 🎯 Especialista em **Angular, React, Vue, TypeScript e JavaScript**
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+- 📍 São Paulo, Brasil
+- 💬 Comunicação clara e disposição para ajudar o time (feedbacks do LinkedIn)
 
 ---
 
 ## 🛠️ Habilidades & Tecnologias
 
-Estas são algumas das ferramentas e tecnologias com as quais trabalho diariamente:
-
-**Front-end:**  
+**Front-end**  
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -26,7 +28,7 @@ Estas são algumas das ferramentas e tecnologias com as quais trabalho diariamen
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Ferramentas e Outros:**  
+**Ferramentas**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -35,12 +37,12 @@ Estas são algumas das ferramentas e tecnologias com as quais trabalho diariamen
 
 ## 📜 Certificações e Cursos
 
-- **Curso de Angular** - Rodrigo Branas
-- **Introdução ao Hacking e Penteste** - Solyd Offensive Security
-- **Google AdWords** - Udemy
-- **Facebook ADS** - Udemy
-- **Curso MercadoLivre Platinum** - Hotmart
-- **Mercado Livre** - Udemy
+- **Design Gráfico UI/UX** – Udemy (2022)
+- **Curso de Angular** – Rodrigo Branas (2021)
+- **Google AdWords** – Udemy
+- **Facebook ADS** – Udemy
+- **Curso MercadoLivre Platinum** – Hotmart
+- **Introdução ao Hacking e Penteste** – Solyd Offensive Security
 
 ---
 
@@ -55,10 +57,8 @@ Estas são algumas das ferramentas e tecnologias com as quais trabalho diariamen
 
 ## 📫 Como me encontrar
 
-Sinta-se à vontade para se conectar e trocar ideias sobre tecnologia, desenvolvimento ou oportunidades de colaboração!
-
-[![LinkedIn](https://img.shields.io/badge/-Vinicius_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-b41613164)
-[![GitHub](https://img.shields.io/badge/-oviinii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oviinii)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-b41613164/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oviinii)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://meu-portfolio-three-hazel.vercel.app)
 
 ---
